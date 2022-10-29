@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    color: green;
+}
+.ola{
+    border-radius: 50px;
+    margin: auto;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: inline;
+    color:black;
+}
